@@ -1,6 +1,5 @@
 test
 new line
 third line on GitHub
-
-
 fourth line locally
+fourth line on GitHub.
